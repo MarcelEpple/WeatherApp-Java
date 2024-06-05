@@ -1,0 +1,12 @@
+seperate url valid check methode   -
+button enabler in fxml auf true setzen
+
+anstatt ad content in tableview eine replace einbauen
+
+neue class für api call
+und json children sorter methode.
+
+die ganze json wird in response field ausgegeben
+und eines der children kann man mit der combo box anzeigen lassen
+
+mit observeable arraylist
