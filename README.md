@@ -1,6 +1,7 @@
 # WeatherApp-Java
 
-DISCLAIMER: Das Design stand bei dieser Arbeit nicht im Vordergrund sondern der funktionaler Einbau der Funktionen
+DISCLAIMER: Das Design stand bei dieser Arbeit nicht im Vordergrund sondern der funktionaler Einbau der Funktionen in JavaFX
+
 
 Anfrage zu Wetter in London:
 
